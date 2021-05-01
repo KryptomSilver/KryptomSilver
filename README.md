@@ -1,10 +1,15 @@
-### Hi there 👋
 
-<!--
-**KryptomSilver/KryptomSilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+Hola soy abel, soy un desarrollador full stack de 23 años
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on stack MERN
-- 🌱 I’m currently learning JavaScript
--->
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP
+- ⚙️ React
+- 👁️ CSS
+- 💽 MySQL, SQL, MongoDB
+
+## Contact
+- [@Krypton764](https://twitter.com/@Krypton764) on Twitter
+- [@martonlederer](https://twitter.com/instagram) on Instagram
+- [PhantomSystem#2579](./) on Discord
