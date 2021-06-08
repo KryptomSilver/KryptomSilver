@@ -1,6 +1,6 @@
 
 ## Hey! 👋
-Hola soy abel, soy un desarrollador full stack de 23 años
+Hola soy abel, soy un desarrollador web de 23 años
 
 
 ## Skills
