@@ -8,6 +8,7 @@ Hola soy abel, soy un desarrollador web de 23 años
 - ⚙️ React
 - 👁️ CSS
 - 💽 MySQL, SQL, MongoDB
+- :computer: Bash
 
 ## Contact
 - [@Krypton764](https://twitter.com/@Krypton764) on Twitter
