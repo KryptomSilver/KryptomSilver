@@ -4,7 +4,7 @@ Hola soy abel, soy un desarrollador web de 23 años
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP
+- 👨‍💻 TypeScript, JavaScript, PHP, Node JS
 - ⚙️ React
 - 👁️ CSS
 - :cd: MySQL, SQL, MongoDB
